@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"aknakereso","l":"Leaderboard"},{"p":"aknakereso","l":"Main"},{"p":"aknakereso","l":"Menu"},{"p":"aknakereso","l":"Minesweeper"},{"p":"aknakereso","l":"MyButton"},{"p":"aknakereso","l":"MyTimer"},{"p":"aknakereso","l":"Player"}]
